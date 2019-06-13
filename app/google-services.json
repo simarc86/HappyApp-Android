@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "394986213417",
+    "firebase_url": "https://happyapp-4282d.firebaseio.com",
+    "project_id": "happyapp-4282d",
+    "storage_bucket": "happyapp-4282d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394986213417:android:0a3b94a83bf3ca52",
+        "android_client_info": {
+          "package_name": "com.simarc86.happyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394986213417-vm2ngsptq31e5rfltok8onp48ecnlrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIHJhbUpk15VbVTH1Lj7YN9089ycFlsKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
